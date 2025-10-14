@@ -1,0 +1,104 @@
+{
+  "id": "120363401783863789@g.us",
+  "name": "Grupo teste3",
+  "description": "\"Regras do Grupo:\n\n1. Respeite os membros e suas opiniões!\n2. Sem flood ou mensagens repetidas!\n3. Nada de conteúdo impróprio ou ofensivo!\n4. Mantenha o grupo no tema (se tiver um tema específico)!\n5. Não envie spam ou correntes!\n6. Seja educado e use linguagem apropriada!\n7. Não compartilhe informações pessoais ou de outros!\n8. Admins têm a palavra final!\n\nVamos manter o grupo divertido e respeitoso! 😊👍\"",
+  "owner": "68999220035698@lid",
+  "creation": 1750910911,
+  "size": 10,
+  "participants": [
+    {
+      "id": "195039279984769@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1760471563012
+    },
+    {
+      "id": "52145617416270@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1760471563012
+    },
+    {
+      "id": "150311708663964@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1760471563012
+    },
+    {
+      "id": "214185875140725@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1760471563012
+    },
+    {
+      "id": "262697966899366@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1760471563012
+    },
+    {
+      "id": "181686327316669@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1760471563012
+    },
+    {
+      "id": "129979199311874@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1760471563012
+    },
+    {
+      "id": "203293838033141@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1760471563012
+    },
+    {
+      "id": "68999220035698@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1760471563012
+    },
+    {
+      "id": "183966703341749@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1760471563012
+    }
+  ],
+  "admins": [
+    "52145617416270@lid",
+    "150311708663964@lid",
+    "214185875140725@lid",
+    "262697966899366@lid",
+    "181686327316669@lid",
+    "129979199311874@lid",
+    "203293838033141@lid",
+    "68999220035698@lid",
+    "183966703341749@lid"
+  ],
+  "memberCount": 10,
+  "adminCount": 9,
+  "settings": {
+    "announce": false,
+    "restrict": true
+  },
+  "lastUpdate": 1760471563012,
+  "eventType": "message_activity",
+  "stats": {
+    "totalMessages": 0,
+    "lastActivity": 1760471563012,
+    "activeMembers": 0
+  }
+}

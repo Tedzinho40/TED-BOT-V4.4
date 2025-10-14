@@ -1,0 +1,9 @@
+{
+  "service": "gmail",
+  "auth": {
+    "user": "jeovajmp500@gmail.com",
+    "pass": "synl lkyg invc atfq"
+  },
+  "defaultFrom": "jeovajmp500@gmail.com", 
+  "fixedMessage": "Olá! Esta é uma mensagem automática de teste enviada pelo bot."
+}

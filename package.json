@@ -1,0 +1,38 @@
+{
+  "name": "TED-BOT",
+  "version": "0.2",
+  "description": "🤖 Bot personalizado usando Baileys",
+  "author": "tedzinho",
+  "license": "MIT",
+  "main": "connect.js",
+  "scripts": {
+    "start": "node connect.js",
+    "dev": "node --watch ./connect.js",
+    "loop": "bash ./start.sh",
+    "pm2:start": "pm2 start connect.js --name bot-zero --watch",
+    "pm2:restart": "pm2 restart bot-zero",
+    "pm2:stop": "pm2 stop bot-zero",
+    "pm2:logs": "pm2 logs bot-zero",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.20",
+    "assemblyai": "^4.16.1",
+    "axios": "^1.11.0",
+    "cfonts": "^2.10.0",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.1.0",
+    "crypto": "^1.0.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "multer": "^2.0.2",
+    "nodemailer": "^7.0.6",
+    "pino": "^9.7.0",
+    "file-type": "^21.0.0",
+    "acrcloud": "^1.4.0",
+    "format-duration-time": "^1.5.4",
+    "pm2": "^5.4.2",
+    "readline": "^1.3.0",
+    "soundcloud-scraper": "^5.0.3",
+    "systeminformation": "^5.27.8"
+  }
+}
